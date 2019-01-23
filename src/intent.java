@@ -5,9 +5,9 @@ public class intent {
         switch (textType)
         {
             case 1: typeOfIntentString = "Greet";break;
-            case 2: typeOfIntentString = "Search";break;
-            case 3: typeOfIntentString = "BugReport";break;
-            case 4: typeOfIntentString = "ProductDetail";break;
+            case 2: typeOfIntentString = "Description";break;
+            case 3: typeOfIntentString = "Solution";break;
+            case 4: typeOfIntentString = "Troubleshoot";break;
             default: typeOfIntentString = "notInTheList";break;
         }
         return  typeOfIntentString;
