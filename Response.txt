@@ -1,2 +1,0 @@
-Response.txt
-{"Response":"SBC","ParentNode":0,"NumberOfChild":0,"Child":"{}","NodeNumber":2}
